@@ -1,0 +1,18 @@
+package controller;
+
+
+import javax.jws.WebParam.Mode;
+
+import model.Model;
+import view.View;
+
+public class Controller {
+	private Model mModel;
+	private View mView;
+	
+	public Controller(Model model, View view) {
+		// TODO Auto-generated constructor stub
+		mModel = model;
+		mView = view;
+	}
+}

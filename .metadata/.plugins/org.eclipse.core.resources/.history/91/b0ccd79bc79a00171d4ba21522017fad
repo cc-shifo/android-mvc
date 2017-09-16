@@ -1,0 +1,45 @@
+package view;
+
+import java.awt.BorderLayout;
+import java.awt.FlowLayout;
+import java.awt.Image;
+
+import javax.swing.JButton;
+import javax.swing.JFrame;
+import javax.swing.JLabel;
+import javax.swing.JPanel;
+
+import model.*;
+public class View extends JFrame implements Model.OnStateChangeListener{
+	private final JButton mBtnLoad = new JButton("Load");
+	private final JButton mBtnClear = new JButton("Clear");
+	private final JLabel mLabel = new JLabel();
+	
+	public public View() {
+		// TODO Auto-generated constructor stub
+		JPanel root = new JPanel();
+		root.setLayout(new BorderLayout());
+		root.add(mLabel, BorderLayout.CENTER);
+		
+		JPanel btnPanel = new JPanel();
+		btnPanel.setLayout(new FlowLayout());
+		btnPanel.add(mBtnLoad);
+		btnPanel.add(mBtnClear);
+		
+		root.add(btnPanel, BorderLayout.SOUTH);
+		
+		setContentPane(root);
+		pack();
+		setTitle("Classic MVC");
+		setVisible(true);
+	}
+	
+	@Override
+	public void onStateChanged(Image image) {
+		if (image == null) {
+			
+		} else {
+			
+		}
+	}
+}

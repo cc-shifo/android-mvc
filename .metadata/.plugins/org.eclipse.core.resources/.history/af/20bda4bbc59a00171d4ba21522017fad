@@ -1,0 +1,20 @@
+package view;
+
+import java.awt.Image;
+
+import javax.swing.JButton;
+import javax.swing.JFrame;
+import model.*;
+public class View extends JFrame implements Model.OnStateChangeListener{
+	private final JButton mBtnLoad = new JButton("Load");
+	private final JButton mBtnClear = new JButton("Clear");
+	
+	@Override
+	public void onStateChanged(Image image) {
+		if (image == null) {
+			
+		} else {
+			
+		}
+	}
+}

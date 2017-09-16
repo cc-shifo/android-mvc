@@ -1,0 +1,7 @@
+package view;
+
+import javax.swing.JFrame;
+import model.*;
+public class View extends JFrame implements Model.OnStateChangeListener{
+
+}

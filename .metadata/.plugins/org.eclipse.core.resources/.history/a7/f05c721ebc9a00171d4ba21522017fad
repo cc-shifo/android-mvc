@@ -1,0 +1,12 @@
+package model;
+
+import java.awt.Image;
+
+public class Model {
+	private Image mImage;
+	private OnStateChangeListenr mListener;
+	public interface OnStateChangeListenr {
+		
+	}
+
+}
