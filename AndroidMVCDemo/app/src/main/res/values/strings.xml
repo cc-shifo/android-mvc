@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">AndroidMVCDemo</string>
+    <string name="bnt_loads">Load</string>
+    <string name="bnt_clear">clear</string>
+</resources>
