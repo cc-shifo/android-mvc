@@ -1,6 +1,6 @@
 # android-mvc demo
-`Demonstration`
-![](https://github.com/cc-shifo/android-mvc/raw/master/mvc.gif)<br>
+`Demonstration`<br>
+>>![](https://github.com/cc-shifo/android-mvc/raw/master/mvc.gif)<br>
 
 
 ### nonmvc
