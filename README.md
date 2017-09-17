@@ -15,5 +15,5 @@ Improved model of MVC<br>
 android MVC model<br>
 ![](https://github.com/cc-shifo/android-mvc/raw/master/AndroidMVCDemo/app/src/main/res/drawable/my-android.png)<br>
 
-`Demonstration`<br>
+### `Demonstration`<br>
 ![](https://github.com/cc-shifo/android-mvc/raw/master/mvc.gif)<br>
