@@ -1,7 +1,4 @@
 # android-mvc demo
-`Demonstration`<br>
->>![](https://github.com/cc-shifo/android-mvc/raw/master/mvc.gif)<br>
-
 
 ### nonmvc
 This a java application without using MVC<br>
@@ -17,3 +14,6 @@ Improved model of MVC<br>
 ### android mvc
 android MVC model<br>
 ![](https://github.com/cc-shifo/android-mvc/raw/master/AndroidMVCDemo/app/src/main/res/drawable/my-android.png)<br>
+
+`Demonstration`<br>
+![](https://github.com/cc-shifo/android-mvc/raw/master/mvc.gif)<br>
