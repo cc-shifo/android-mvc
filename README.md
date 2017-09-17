@@ -14,6 +14,6 @@ It a java application using classic MVC<br>
 Improved model of MVC<br>
 ![](https://github.com/cc-shifo/demo/raw/master/improvedmvc/res/改进模型.png)<br>
 
-### improved mvc
-Improved model of MVC<br>
+### android mvc
+android MVC model<br>
 ![](https://github.com/cc-shifo/demo/raw/master//AndroidMVCDemo/app/src/main/res/drawable/安卓模型.png)<br>
